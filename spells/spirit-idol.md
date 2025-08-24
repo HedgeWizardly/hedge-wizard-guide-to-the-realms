@@ -1,5 +1,13 @@
 # Spirit Idol
 
+Necromancy
+
+Level: **4**
+Casting time: **1 Action**
+Range: **60 feet**
+Components: **V, S, M (a small doll or figurine)**
+Duration: **1 minute**
+
 You manifest a portion of a creature's spirit. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, you summon a manifestation of the creature's spirit as a spirit idol within 60 feet of you, at a point of your choosing.
 
 A target’s spirit idol resembles its body in almost every way, but looks like a ghostly spirit. The spirit idol is non-corporeal and cannot be moved in any way. It has an AC of 13, and 30 hit points. Attacks against the spirit idol cannot benefit from advantage or disadvantage. It is immune to non-magical damage, and automatically fails all saving throws. 
