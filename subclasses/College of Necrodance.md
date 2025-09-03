@@ -1,5 +1,14 @@
 # College of Necrodancing
 
+In some worlds, Necromancy can be broken up into three core parts: the soul, the mind, and the body. The soul is often associated with life-force and vitality; The mind with communicating what a creature knew in life; The body with its muscle memory and learned habits. 
+
+It is this third specialty of the body that Necrodancers tap into with their irrestistable beats, melodies, and movements. They cause the spiritual corpus to re-animate using the same impulses that set a head bobbing or a foot tapping. 
+
+While not fully understood, some magical scholars believe Necrodancing to be one of the few "ethical" ways to practice Necromancy, as the soul and body can be left in peace, while the spiritual corpus can be made to inhabit inanimate objects, and can operate without any connection to the departed. 
+
+If this aligns with your world, you may find individuals with a rare knack for Necrodancing, and the soul for getting down.
+
+
 ## Infectious Rhythm
 Level 3:
 As a bonus action, you can expend a bardic inspiration to imbue a creature with sensational groove, choosing one of the below effects. The effect lasts for up to one minute, or until you use this feature again.
@@ -19,7 +28,7 @@ Undead creatures automatically fail this save.
 
 ## Animating Performance
 
-At 6th level, you learn the animate dead spell if you do not know it already, and it is always prepared. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate. Alternatively, you can target a Large or smaller non-magical item that is not being carried or worn, which uses the Dancing Item stat block, which uses your proficiency bonus (PB).
+At 6th level, you learn the animate dead spell if you do not know it already, and it is always prepared. When you cast animate dead, you can choose to target a Large or smaller non-magical item that is not being carried or worn, which uses the Dancing Item stat block, benefitting from your proficiency bonus (PB). Additionally, you can target one additional corpse,  pile of bones, or object- creating another zombie, skeleton, or Dancing Item as appropriate. 
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 *   The creature's dexterity score is increased by an amount equal to your Charisma modifier
