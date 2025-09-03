@@ -1,12 +1,12 @@
 # College of Necrodancing
 
-In some worlds, Necromancy can be broken up into three core parts: the soul, the mind, and the body. The soul is often associated with life-force and vitality; The mind with communicating what a creature knew in life; The body with its muscle memory and learned habits. 
+In some worlds, Necromancy can be broken up into three core specialties: the soul, the mind, and the body. The soul is often associated with life-force and vitality; The mind with communicating what a creature knew in life; The body with its muscle memory and learned habits. 
 
-It is this third specialty of the body that Necrodancers tap into with their irrestistable beats, melodies, and movements. They cause the spiritual corpus to re-animate using the same impulses that set a head bobbing or a foot tapping. 
+It is this third specialty of the body that Necrodancers tap into with their irresistible beats, melodies, and movements. They cause the spiritual corpus to re-animate using the same impulses that set a head bobbing or a foot tapping. 
 
 While not fully understood, some magical scholars believe Necrodancing to be one of the few "ethical" ways to practice Necromancy, as the soul and body can be left in peace, while the spiritual corpus can be made to inhabit inanimate objects, and can operate without any connection to the departed. 
 
-If this aligns with your world, you may find individuals with a rare knack for Necrodancing, and the soul for getting down.
+If this aligns with your world, you may find individuals with a rare knack for Necrodancing, and the soul for getting down...
 
 
 ## Infectious Rhythm
