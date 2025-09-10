@@ -21,7 +21,7 @@ As a bonus action, you can expend a bardic inspiration to imbue a creature with 
 
 - The creature expends 15 feet of movement immediately, and then again on each consecutive turn while affected. If it does so, its AC increases by 1.
 
-Unwilling creatures can make a saving throw at the end of each turn, ending the effect on a success. Once a creature succeeds on this save, they cannot be effected again until the next dawn.
+Unwilling creatures can make a saving throw against your spell save DC at the end of each turn, ending the effect on a success. Once a creature succeeds on this save, they cannot be effected again until the next dawn.
 
 Undead creatures automatically fail this save.
 
