@@ -25,6 +25,16 @@ Unwilling creatures can make a saving throw against your spell save DC at the en
 
 Undead creatures automatically fail this save.
 
+## Secrets of the Grave
+
+You learn the Spare the Dying cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+
+In addition, choose two necromancy spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or cantrip.
+
+The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
+
+When you gain a level in this class, you may swap out one of these necromancy spells for another.
+
 
 ## Animating Performance
 
@@ -40,7 +50,8 @@ Additionally, the following effects apply:
 - The creature will disanimate if it cannot see or hear you, or if it is more than 90 feet away from you.
 
 
-## Some Witty Groovy Name
+## Stealing Afterlife
+
 Starting at 14th level, you can use magic to bring undead under your control, even those created by other casters. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your bard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.
 Intelligent undead are harder to control in this way.
 
