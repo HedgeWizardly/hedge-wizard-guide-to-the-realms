@@ -31,7 +31,7 @@ At level 6, your body has adapted to maintaining high speed pursuits with minima
 
 ## Level 6: On Your Left
 
-When an attack roll hits an ally and its damage includes Bludgeoning, Piercing, or Slashing damage, you can spend 1 Focus point to use your Deflect Attacks feature on that attack.
+When an attack roll hits an ally within 5 feet of you, you can spend 1 Focus point to use your Deflect Attacks feature on that attack as if you were the target. The attack must still meet the requirements of Deflect Attacks.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ornjYpj5imz9noa2c%2Fgiphy.gif&f=1&nofb=1&ipt=b0b59eff67ca7d5e6e62bb6d2e81781c0cb0f87d886ef1732e8bd0b50cbb7299" width="200px" />
 
