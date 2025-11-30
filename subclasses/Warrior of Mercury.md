@@ -7,7 +7,7 @@ Warriors of Mercury are some of the fastest creatures alive. They hone their bod
 ## Level 3: Quicksilver Stride
 Your speed increases by 10 feet. It increases by 10 feet again at levels 6, 11, and 17.
 
-When you make a long jump, you can cover a number of feet up to your Dexterity score for every 10 feet of movement spent immediately before the jump. You must have enough movement left to spend on your turn in order to reach this extended distance, and this jump distance cannot exceed 30 feet.
+When you make a long jump, you can cover a number of feet up to your Dexterity score for every 10 feet of movement spent immediately before the jump. You must have enough movement left to spend on your turn in order to reach this extended distance.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmarvelblog.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fleap-makkari.gif&f=1&nofb=1&ipt=5020c99c66bd0ee7a569fc8021783d65ee968b22e85f28e75b04fd42e25ed4c5" width="200px" />
 
