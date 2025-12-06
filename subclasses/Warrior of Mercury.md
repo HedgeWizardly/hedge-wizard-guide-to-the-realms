@@ -15,9 +15,9 @@ When you make a long jump, you can cover a number of feet up to your Dexterity s
 
 If you move at least 15 feet in a straight line towards your target on your turn before making an Unarmed Strike or an attack with a Monk weapon, you can choose one of the following effects:
 
-_**Bullet Punch.**_ Your first attack deals bonus Force damage equal to one third of the distance travelled (rounded down), if you hit.
+_**Bullet Punch.**_ You can spend 1 Focus point to deal extra force damage equal to one roll of your Martial Arts die + your Wisdom modifier.
 
-_**Shockwave.**_ As an Action, you expend up to 4 Focus points as well as any remaining movement you have on your turn to force every creature within 10 feet to make a Strength saving throw. On a failure, creatures take damage equal to one roll of your martial arts die for each Focus point spent + your Dexterity modifier, and are knocked back up to 15 feet away from you, or knocked prone (your choice).
+_**Shockwave.**_ As an Action, you expend up to 4 Focus points to force every creature within 10 feet to make a Strength saving throw. On a failure, creatures take damage equal to one roll of your martial arts die for every 30 feet of movement spent in a straight line towards the target + your Dexterity modifier, and are knocked back up to 15 feet away from you, or knocked prone (your choice). Doing so then expends any remaining movement you have left on your turn.
 
 When you reach 11th level, creatures take half as much damage from this feature on a successful saving throw.
 
