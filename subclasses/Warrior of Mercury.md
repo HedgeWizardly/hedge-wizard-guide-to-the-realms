@@ -12,12 +12,11 @@ When you make a long jump, you can cover a number of feet up to your Dexterity s
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmarvelblog.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fleap-makkari.gif&f=1&nofb=1&ipt=5020c99c66bd0ee7a569fc8021783d65ee968b22e85f28e75b04fd42e25ed4c5" width="200px" />
 
 ## Level 3: Terminal Velocity
+You have developed two techniques that utilize your supernatural speed and momentum to empower attacks.
 
-If you move at least 15 feet in a straight line towards your target on your turn before making an Unarmed Strike or an attack with a Monk weapon, you can choose one of the following effects:
+_**Bullet Punch.**_ If you move at least 15 feet in a straight line towards your target on your turn before making an Unarmed Strike or an attack with a Monk weapon, you can spend 1 Focus point to deal extra force damage equal to one roll of your Martial Arts die + your Wisdom modifier.
 
-_**Bullet Punch.**_ You can spend 1 Focus point to deal extra force damage equal to one roll of your Martial Arts die + your Wisdom modifier.
-
-_**Shockwave.**_ As an Action, you expend up to 4 Focus points to force every creature within 10 feet to make a Strength saving throw. On a failure, creatures take damage equal to one roll of your martial arts die for every 30 feet of movement spent in a straight line towards the target + your Dexterity modifier, and are knocked back up to 15 feet away from you, or knocked prone (your choice). Doing so then expends any remaining movement you have left on your turn.
+_**Shockwave.**_ As an Action, you expend up to 4 Focus points and move up to your speed in a straight line to force every creature within 10 feet to make a Strength saving throw. On a failure, creatures take damage equal to one roll of your martial arts die for every 30 feet of movement travelled as part of this action + your Dexterity modifier, and are knocked back up to 15 feet away from you.
 
 When you reach 11th level, creatures take half as much damage from this feature on a successful saving throw.
 
