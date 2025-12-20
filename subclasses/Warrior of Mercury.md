@@ -4,7 +4,7 @@
 
 Warriors of Mercury are some of the fastest creatures alive. They hone their bodies to perform incredible feats of speed to enhance attacks, avoid blows, and travel incredible distances in the blink of an eye.
 
-## Level 3: Fleetfoot
+## Level 3: Need For Speed
 Your speed increases by 10 feet. It increases by 10 feet again at levels 6, 11, and 17.
 
 When you make a long jump, you can cover an additional 5 feet for every 15 feet you moved on foot immediately before the jump.
